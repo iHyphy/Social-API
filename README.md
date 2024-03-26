@@ -1,7 +1,7 @@
 # Social-API
 
 ## Description
-My social API connected to MongoDB.
+My social API connected to MongoDB using express.js.
 
 ## Table of Contents
 - [Installation](#installation)
